@@ -11189,3 +11189,595 @@
 13:55:46:INFO:<<< BYE sip:and@192.168.100.47:55796;transport=udp SIP/2.0
 13:55:46:INFO:>>> SIP/2.0 200 Ok
 13:55:46:INFO:<<< SIP/2.0 200 Ok
+13:59:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+13:59:35:INFO:<<< SIP/2.0 200 0K
+14:04:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+14:04:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+14:04:31:INFO:<<< SIP/2.0 200 0K
+14:08:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+14:08:35:INFO:<<< SIP/2.0 200 0K
+14:13:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+14:13:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+14:13:31:INFO:<<< SIP/2.0 200 0K
+14:17:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+14:17:35:INFO:<<< SIP/2.0 200 0K
+14:22:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+14:22:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+14:22:31:INFO:<<< SIP/2.0 200 0K
+14:26:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+14:26:35:INFO:<<< SIP/2.0 200 0K
+14:31:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+14:31:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+14:31:31:INFO:<<< SIP/2.0 200 0K
+14:35:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+14:35:35:INFO:<<< SIP/2.0 200 0K
+14:40:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+14:40:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+14:40:31:INFO:<<< SIP/2.0 200 0K
+14:44:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+14:44:35:INFO:<<< SIP/2.0 200 0K
+14:48:56:INFO:>>> REGISTER sip:192.168.100.34:5060 SIP/2.0
+14:48:56:INFO:From: and@192.168.100.34 - Contact: 192.168.100.47:55796
+14:48:56:INFO:<<< SIP/2.0 200 0K
+14:49:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+14:49:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+14:49:31:INFO:<<< SIP/2.0 200 0K
+14:53:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+14:53:35:INFO:<<< SIP/2.0 200 0K
+14:58:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+14:58:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+14:58:31:INFO:<<< SIP/2.0 200 0K
+15:02:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+15:02:35:INFO:<<< SIP/2.0 200 0K
+15:07:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:07:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+15:07:31:INFO:<<< SIP/2.0 200 0K
+15:11:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+15:11:35:INFO:<<< SIP/2.0 200 0K
+15:16:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:16:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+15:16:31:INFO:<<< SIP/2.0 200 0K
+15:20:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+15:20:35:INFO:<<< SIP/2.0 200 0K
+15:25:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:25:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+15:25:31:INFO:<<< SIP/2.0 200 0K
+15:29:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+15:29:35:INFO:<<< SIP/2.0 200 0K
+15:34:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:34:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+15:34:31:INFO:<<< SIP/2.0 200 0K
+15:38:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+15:38:35:INFO:<<< SIP/2.0 200 0K
+15:42:56:INFO:>>> REGISTER sip:192.168.100.34:5060 SIP/2.0
+15:42:56:INFO:From: and@192.168.100.34 - Contact: 192.168.100.47:55796
+15:42:56:INFO:<<< SIP/2.0 200 0K
+15:43:31:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:43:31:INFO:From: pc@192.168.100.34 - Contact: 192.168.100.34:65466
+15:43:31:INFO:<<< SIP/2.0 200 0K
+15:43:55:INFO:>>> REGISTER sip:192.168.100.34:5060 SIP/2.0
+15:43:55:INFO:From: and@192.168.100.34 - Contact: 192.168.100.47:55796
+15:43:55:INFO:<<< SIP/2.0 200 0K
+15:44:04:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:44:04:INFO:From: dna@192.168.100.34 - Contact: 192.168.100.43:47488
+15:44:04:INFO:<<< SIP/2.0 200 0K
+15:44:05:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:44:05:INFO:From: dna@192.168.100.34 - Contact: 192.168.100.43:47488
+15:44:05:INFO:<<< SIP/2.0 200 0K
+15:44:08:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:44:08:INFO:From: dna@192.168.100.34 - Contact: 192.168.100.43:47488
+15:44:08:INFO:<<< SIP/2.0 200 0K
+15:44:17:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:44:17:INFO:From: dna@192.168.100.34 - Contact: 192.168.100.43:47488
+15:44:17:INFO:<<< SIP/2.0 200 0K
+15:44:58:INFO:Sun, 27 Feb 2022 15:44:58 
+15:44:58:INFO:DESKTOP-U6DAFB1
+15:44:58:INFO:192.168.100.34
+15:45:14:INFO:>>> REGISTER sip:192.168.100.34:5060 SIP/2.0
+15:45:14:INFO:Od: and@192.168.100.34 - Kontakt: 192.168.100.47:55796
+15:45:14:INFO:<<< SIP/2.0 200 V poriadku
+15:45:32:INFO:>>> REGISTER sip:192.168.100.34:5060 SIP/2.0
+15:45:32:INFO:Od: and@192.168.100.34 - Kontakt: 192.168.100.47:55796
+15:45:32:INFO:<<< SIP/2.0 200 V poriadku
+15:46:13:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:46:13:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:46:13:INFO:<<< SIP/2.0 200 V poriadku
+15:46:14:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:46:14:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:46:14:INFO:<<< SIP/2.0 200 V poriadku
+15:46:18:INFO:>>> REGISTER sip:192.168.100.34:5060 SIP/2.0
+15:46:18:INFO:Od: and@192.168.100.34 - Kontakt: 192.168.100.47:55796
+15:46:18:INFO:<<< SIP/2.0 200 V poriadku
+15:46:34:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:46:34:INFO:destinacia dna@192.168.100.34
+15:46:34:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:46:34:INFO:>>> SIP/2.0 100 Trying
+15:46:34:INFO:<<< SIP/2.0 100 Trying
+15:46:34:INFO:>>> SIP/2.0 180 Ringing
+15:46:34:INFO:<<< SIP/2.0 180 Ringing
+15:46:34:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:46:34:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:46:34:INFO:<<< SIP/2.0 200 V poriadku
+15:46:49:INFO:>>> CANCEL sip:dna@192.168.100.34:5060 SIP/2.0
+15:46:49:INFO:destinacia dna@192.168.100.34
+15:46:49:INFO:<<< CANCEL sip:dna@192.168.100.34:5060 SIP/2.0
+15:46:49:INFO:>>> SIP/2.0 200 Ok
+15:46:49:INFO:<<< SIP/2.0 200 Ok
+15:46:49:INFO:>>> SIP/2.0 487 Request terminated
+15:46:49:INFO:<<< SIP/2.0 487 Request terminated
+15:46:49:INFO:>>> ACK sip:dna@192.168.100.34:5060 SIP/2.0
+15:46:49:INFO:destinacia dna@192.168.100.34
+15:46:49:INFO:<<< ACK sip:dna@192.168.100.34:5060 SIP/2.0
+15:46:50:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:46:50:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:46:50:INFO:<<< SIP/2.0 200 V poriadku
+15:47:25:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:47:25:INFO:destinacia dna@192.168.100.34
+15:47:25:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:47:25:INFO:>>> SIP/2.0 100 Trying
+15:47:25:INFO:<<< SIP/2.0 100 Trying
+15:47:25:INFO:>>> SIP/2.0 180 Ringing
+15:47:25:INFO:<<< SIP/2.0 180 Ringing
+15:47:25:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:47:25:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:47:25:INFO:<<< SIP/2.0 200 V poriadku
+15:47:34:INFO:>>> SIP/2.0 200 Ok
+15:47:34:INFO:<<< SIP/2.0 200 Ok
+15:47:34:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:47:34:INFO:destinacia dna@192.168.100.34
+15:47:34:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:47:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+15:47:35:INFO:<<< SIP/2.0 200 V poriadku
+15:47:48:INFO:>>> BYE sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+15:47:48:INFO:destinacia and@192.168.100.34
+15:47:48:INFO:<<< BYE sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+15:47:48:INFO:>>> SIP/2.0 200 Ok
+15:47:48:INFO:<<< SIP/2.0 200 Ok
+15:47:49:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:47:49:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:47:49:INFO:<<< SIP/2.0 200 V poriadku
+15:48:45:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:48:45:INFO:destinacia dna@192.168.100.34
+15:48:45:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:48:45:INFO:>>> SIP/2.0 100 Trying
+15:48:45:INFO:<<< SIP/2.0 100 Trying
+15:48:45:INFO:>>> SIP/2.0 180 Ringing
+15:48:45:INFO:<<< SIP/2.0 180 Ringing
+15:48:45:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:48:45:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:48:45:INFO:<<< SIP/2.0 200 V poriadku
+15:48:50:INFO:>>> SIP/2.0 603 Decline
+15:48:50:INFO:<<< SIP/2.0 603 Decline
+15:48:50:INFO:>>> ACK sip:dna@192.168.100.34:5060 SIP/2.0
+15:48:50:INFO:destinacia dna@192.168.100.34
+15:48:50:INFO:<<< ACK sip:dna@192.168.100.34:5060 SIP/2.0
+15:48:51:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:48:51:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:48:51:INFO:<<< SIP/2.0 200 V poriadku
+15:50:20:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:50:20:INFO:Od: pc@192.168.100.34 - Kontakt: 192.168.100.34:65466
+15:50:20:INFO:<<< SIP/2.0 200 V poriadku
+15:50:25:INFO:>>> INVITE sip:dna@192.168.100.34 SIP/2.0
+15:50:25:INFO:destinacia dna@192.168.100.34
+15:50:25:INFO:<<< INVITE sip:dna@192.168.100.34 SIP/2.0
+15:50:25:INFO:>>> SIP/2.0 100 Trying
+15:50:25:INFO:<<< SIP/2.0 100 Trying
+15:50:25:INFO:>>> INVITE sip:and@192.168.100.34 SIP/2.0
+15:50:25:INFO:destinacia and@192.168.100.34
+15:50:25:INFO:<<< INVITE sip:and@192.168.100.34 SIP/2.0
+15:50:26:INFO:>>> SIP/2.0 100 Trying
+15:50:26:INFO:<<< SIP/2.0 100 Trying
+15:50:26:INFO:>>> SIP/2.0 180 Ringing
+15:50:26:INFO:<<< SIP/2.0 180 Ringing
+15:50:26:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:50:26:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:50:26:INFO:<<< SIP/2.0 200 V poriadku
+15:50:26:INFO:>>> SIP/2.0 180 Ringing
+15:50:26:INFO:<<< SIP/2.0 180 Ringing
+15:50:29:INFO:>>> SIP/2.0 200 Ok
+15:50:29:INFO:<<< SIP/2.0 200 Ok
+15:50:29:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:50:29:INFO:destinacia dna@192.168.100.34
+15:50:29:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:50:31:INFO:>>> SIP/2.0 200 Ok
+15:50:31:INFO:<<< SIP/2.0 200 Ok
+15:50:31:INFO:>>> ACK sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+15:50:31:INFO:destinacia and@192.168.100.34
+15:50:31:INFO:<<< ACK sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+15:50:31:INFO:>>> SUBSCRIBE sip:pc@192.168.100.34;conf-id=EDx6L;transport=udp SIP/2.0
+15:50:31:INFO:<<< SIP/2.0 200 V poriadku
+15:50:43:INFO:>>> BYE sip:pc@192.168.100.34:65466;conf-id=EDx6L;transport=udp SIP/2.0
+15:50:43:INFO:destinacia pc@192.168.100.34
+15:50:43:INFO:<<< BYE sip:pc@192.168.100.34:65466;conf-id=EDx6L;transport=udp SIP/2.0
+15:50:43:INFO:>>> SIP/2.0 200 Ok
+15:50:43:INFO:<<< SIP/2.0 200 Ok
+15:50:44:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:50:44:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:50:44:INFO:<<< SIP/2.0 200 V poriadku
+15:50:46:INFO:>>> BYE sip:pc@192.168.100.34:65466;conf-id=EDx6L;transport=udp SIP/2.0
+15:50:46:INFO:destinacia pc@192.168.100.34
+15:50:46:INFO:<<< BYE sip:pc@192.168.100.34:65466;conf-id=EDx6L;transport=udp SIP/2.0
+15:50:46:INFO:>>> SIP/2.0 200 Ok
+15:50:46:INFO:<<< SIP/2.0 200 Ok
+15:50:46:INFO:>>> SUBSCRIBE sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+15:50:46:INFO:<<< SIP/2.0 200 V poriadku
+15:51:35:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:51:35:INFO:destinacia dna@192.168.100.34
+15:51:35:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:51:35:INFO:>>> SIP/2.0 100 Trying
+15:51:35:INFO:<<< SIP/2.0 100 Trying
+15:51:35:INFO:>>> SIP/2.0 180 Ringing
+15:51:35:INFO:<<< SIP/2.0 180 Ringing
+15:51:35:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:51:35:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:51:35:INFO:<<< SIP/2.0 200 V poriadku
+15:51:38:INFO:>>> SIP/2.0 200 Ok
+15:51:38:INFO:<<< SIP/2.0 200 Ok
+15:51:38:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:51:38:INFO:destinacia dna@192.168.100.34
+15:51:38:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:51:45:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:51:45:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:51:45:INFO:<<< SIP/2.0 200 V poriadku
+15:51:49:INFO:>>> REFER sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+15:51:49:INFO:destinacia and@192.168.100.34
+15:51:49:INFO:<<< REFER sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+15:51:49:INFO:>>> SIP/2.0 202 Accepted
+15:51:49:INFO:<<< SIP/2.0 202 Accepted
+15:51:49:INFO:>>> INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:51:49:INFO:destinacia dna@192.168.100.34
+15:51:49:INFO:<<< INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:51:49:INFO:>>> INVITE sip:pc@192.168.100.34 SIP/2.0
+15:51:49:INFO:destinacia pc@192.168.100.34
+15:51:49:INFO:<<< INVITE sip:pc@192.168.100.34 SIP/2.0
+15:51:49:INFO:>>> SIP/2.0 100 Trying
+15:51:49:INFO:<<< SIP/2.0 100 Trying
+15:51:50:INFO:>>> SIP/2.0 100 Trying
+15:51:50:INFO:<<< SIP/2.0 100 Trying
+15:51:50:INFO:>>> SIP/2.0 200 Ok
+15:51:50:INFO:<<< SIP/2.0 200 Ok
+15:51:50:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:51:50:INFO:destinacia dna@192.168.100.34
+15:51:50:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:51:50:INFO:>>> NOTIFY sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:51:50:INFO:<<< SIP/2.0 200 V poriadku
+15:51:50:INFO:>>> SIP/2.0 180 Ringing
+15:51:50:INFO:<<< SIP/2.0 180 Ringing
+15:51:55:INFO:>>> SIP/2.0 200 Ok
+15:51:55:INFO:<<< SIP/2.0 200 Ok
+15:51:55:INFO:>>> NOTIFY sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:51:55:INFO:<<< SIP/2.0 200 V poriadku
+15:51:56:INFO:>>> ACK sip:pc@192.168.100.34:65466;transport=udp SIP/2.0
+15:51:56:INFO:destinacia pc@192.168.100.34
+15:51:56:INFO:<<< ACK sip:pc@192.168.100.34:65466;transport=udp SIP/2.0
+15:52:04:INFO:>>> BYE sip:pc@192.168.100.34:65466;transport=udp SIP/2.0
+15:52:04:INFO:destinacia pc@192.168.100.34
+15:52:04:INFO:<<< BYE sip:pc@192.168.100.34:65466;transport=udp SIP/2.0
+15:52:04:INFO:>>> SIP/2.0 200 Ok
+15:52:04:INFO:<<< SIP/2.0 200 Ok
+15:52:09:INFO:>>> INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:52:09:INFO:destinacia dna@192.168.100.34
+15:52:09:INFO:<<< INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:52:09:INFO:>>> SIP/2.0 100 Trying
+15:52:09:INFO:<<< SIP/2.0 100 Trying
+15:52:09:INFO:>>> SIP/2.0 200 Ok
+15:52:09:INFO:<<< SIP/2.0 200 Ok
+15:52:09:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:52:09:INFO:destinacia dna@192.168.100.34
+15:52:09:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:52:14:INFO:>>> BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:52:14:INFO:destinacia dna@192.168.100.34
+15:52:14:INFO:<<< BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:52:15:INFO:>>> SIP/2.0 200 Ok
+15:52:15:INFO:<<< SIP/2.0 200 Ok
+15:52:15:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:52:15:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:52:15:INFO:<<< SIP/2.0 200 V poriadku
+15:52:49:INFO:>>> INVITE sip:and@192.168.100.34:5060 SIP/2.0
+15:52:49:INFO:destinacia and@192.168.100.34
+15:52:49:INFO:<<< INVITE sip:and@192.168.100.34:5060 SIP/2.0
+15:52:49:INFO:>>> SIP/2.0 100 Trying
+15:52:49:INFO:<<< SIP/2.0 100 Trying
+15:52:50:INFO:>>> SIP/2.0 180 Ringing
+15:52:50:INFO:<<< SIP/2.0 180 Ringing
+15:52:53:INFO:>>> SIP/2.0 603 Decline
+15:52:53:INFO:<<< SIP/2.0 603 Decline
+15:52:53:INFO:>>> ACK sip:and@192.168.100.34:5060 SIP/2.0
+15:52:53:INFO:destinacia and@192.168.100.34
+15:52:53:INFO:<<< ACK sip:and@192.168.100.34:5060 SIP/2.0
+15:53:05:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:53:05:INFO:destinacia dna@192.168.100.34
+15:53:05:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+15:53:05:INFO:>>> SIP/2.0 100 Trying
+15:53:05:INFO:<<< SIP/2.0 100 Trying
+15:53:05:INFO:>>> SIP/2.0 180 Ringing
+15:53:05:INFO:<<< SIP/2.0 180 Ringing
+15:53:05:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:53:05:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:53:05:INFO:<<< SIP/2.0 200 V poriadku
+15:53:06:INFO:>>> SIP/2.0 200 Ok
+15:53:06:INFO:<<< SIP/2.0 200 Ok
+15:53:07:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:07:INFO:destinacia dna@192.168.100.34
+15:53:07:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:11:INFO:>>> INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:11:INFO:destinacia dna@192.168.100.34
+15:53:11:INFO:<<< INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:11:INFO:>>> SIP/2.0 100 Trying
+15:53:11:INFO:<<< SIP/2.0 100 Trying
+15:53:12:INFO:>>> SIP/2.0 200 Ok
+15:53:12:INFO:<<< SIP/2.0 200 Ok
+15:53:12:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:12:INFO:destinacia dna@192.168.100.34
+15:53:12:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:20:INFO:>>> INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:20:INFO:destinacia dna@192.168.100.34
+15:53:20:INFO:<<< INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:20:INFO:>>> SIP/2.0 100 Trying
+15:53:20:INFO:<<< SIP/2.0 100 Trying
+15:53:20:INFO:>>> SIP/2.0 200 Ok
+15:53:20:INFO:<<< SIP/2.0 200 Ok
+15:53:21:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:21:INFO:destinacia dna@192.168.100.34
+15:53:21:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:23:INFO:>>> BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:23:INFO:destinacia dna@192.168.100.34
+15:53:23:INFO:<<< BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+15:53:24:INFO:>>> SIP/2.0 200 Ok
+15:53:24:INFO:<<< SIP/2.0 200 Ok
+15:53:25:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:53:25:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:53:25:INFO:<<< SIP/2.0 200 V poriadku
+15:56:13:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:56:13:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:56:13:INFO:<<< SIP/2.0 200 V poriadku
+15:56:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+15:56:35:INFO:<<< SIP/2.0 200 V poriadku
+15:58:38:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:58:38:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+15:58:38:INFO:<<< SIP/2.0 200 V poriadku
+15:59:20:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+15:59:20:INFO:Od: pc@192.168.100.34 - Kontakt: 192.168.100.34:65466
+15:59:20:INFO:<<< SIP/2.0 200 V poriadku
+15:59:35:INFO:>>> REGISTER sip:192.168.100.34:5060 SIP/2.0
+15:59:35:INFO:Od: and@192.168.100.34 - Kontakt: 192.168.100.47:55796
+15:59:35:INFO:<<< SIP/2.0 200 V poriadku
+16:00:11:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:00:11:INFO:destinacia dna@192.168.100.34
+16:00:11:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:00:11:INFO:>>> SIP/2.0 100 Trying
+16:00:11:INFO:<<< SIP/2.0 100 Trying
+16:00:11:INFO:>>> SIP/2.0 180 Ringing
+16:00:11:INFO:<<< SIP/2.0 180 Ringing
+16:00:11:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:00:11:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:00:11:INFO:<<< SIP/2.0 200 V poriadku
+16:00:18:INFO:>>> CANCEL sip:dna@192.168.100.34:5060 SIP/2.0
+16:00:18:INFO:destinacia dna@192.168.100.34
+16:00:18:INFO:<<< CANCEL sip:dna@192.168.100.34:5060 SIP/2.0
+16:00:18:INFO:>>> SIP/2.0 200 Ok
+16:00:18:INFO:<<< SIP/2.0 200 Ok
+16:00:18:INFO:>>> SIP/2.0 487 Request terminated
+16:00:18:INFO:<<< SIP/2.0 487 Request terminated
+16:00:18:INFO:>>> ACK sip:dna@192.168.100.34:5060 SIP/2.0
+16:00:18:INFO:destinacia dna@192.168.100.34
+16:00:18:INFO:<<< ACK sip:dna@192.168.100.34:5060 SIP/2.0
+16:00:19:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:00:19:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:00:19:INFO:<<< SIP/2.0 200 V poriadku
+16:00:43:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:00:43:INFO:destinacia dna@192.168.100.34
+16:00:43:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:00:43:INFO:>>> SIP/2.0 100 Trying
+16:00:43:INFO:<<< SIP/2.0 100 Trying
+16:00:43:INFO:>>> SIP/2.0 180 Ringing
+16:00:43:INFO:<<< SIP/2.0 180 Ringing
+16:00:43:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:00:43:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:00:43:INFO:<<< SIP/2.0 200 V poriadku
+16:00:44:INFO:>>> SIP/2.0 200 Ok
+16:00:44:INFO:<<< SIP/2.0 200 Ok
+16:00:45:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:00:45:INFO:destinacia dna@192.168.100.34
+16:00:45:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:00:56:INFO:>>> BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:00:56:INFO:destinacia dna@192.168.100.34
+16:00:56:INFO:<<< BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:00:56:INFO:>>> SIP/2.0 200 Ok
+16:00:56:INFO:<<< SIP/2.0 200 Ok
+16:00:57:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:00:57:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:00:57:INFO:<<< SIP/2.0 200 V poriadku
+16:02:06:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:02:06:INFO:destinacia dna@192.168.100.34
+16:02:06:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:02:07:INFO:>>> SIP/2.0 100 Trying
+16:02:07:INFO:<<< SIP/2.0 100 Trying
+16:02:07:INFO:>>> SIP/2.0 180 Ringing
+16:02:07:INFO:<<< SIP/2.0 180 Ringing
+16:02:07:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:02:07:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:02:07:INFO:<<< SIP/2.0 200 V poriadku
+16:02:10:INFO:>>> SIP/2.0 603 Decline
+16:02:10:INFO:<<< SIP/2.0 603 Decline
+16:02:10:INFO:>>> ACK sip:dna@192.168.100.34:5060 SIP/2.0
+16:02:10:INFO:destinacia dna@192.168.100.34
+16:02:10:INFO:<<< ACK sip:dna@192.168.100.34:5060 SIP/2.0
+16:02:10:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:02:10:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:02:10:INFO:<<< SIP/2.0 200 V poriadku
+16:02:57:INFO:>>> INVITE sip:dna@192.168.100.34 SIP/2.0
+16:02:57:INFO:destinacia dna@192.168.100.34
+16:02:57:INFO:<<< INVITE sip:dna@192.168.100.34 SIP/2.0
+16:02:57:INFO:>>> SIP/2.0 100 Trying
+16:02:57:INFO:<<< SIP/2.0 100 Trying
+16:02:57:INFO:>>> INVITE sip:and@192.168.100.34 SIP/2.0
+16:02:57:INFO:destinacia and@192.168.100.34
+16:02:57:INFO:<<< INVITE sip:and@192.168.100.34 SIP/2.0
+16:02:57:INFO:>>> SIP/2.0 100 Trying
+16:02:57:INFO:<<< SIP/2.0 100 Trying
+16:02:57:INFO:>>> SIP/2.0 180 Ringing
+16:02:57:INFO:<<< SIP/2.0 180 Ringing
+16:02:57:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:02:57:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:02:57:INFO:<<< SIP/2.0 200 V poriadku
+16:02:57:INFO:>>> SIP/2.0 180 Ringing
+16:02:57:INFO:<<< SIP/2.0 180 Ringing
+16:03:00:INFO:>>> SIP/2.0 200 Ok
+16:03:00:INFO:<<< SIP/2.0 200 Ok
+16:03:00:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:03:00:INFO:destinacia dna@192.168.100.34
+16:03:00:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:03:02:INFO:>>> SIP/2.0 200 Ok
+16:03:02:INFO:<<< SIP/2.0 200 Ok
+16:03:02:INFO:>>> ACK sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:03:02:INFO:destinacia and@192.168.100.34
+16:03:02:INFO:<<< ACK sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:03:02:INFO:>>> SUBSCRIBE sip:pc@192.168.100.34;conf-id=EDx6L;transport=udp SIP/2.0
+16:03:02:INFO:<<< SIP/2.0 200 V poriadku
+16:03:08:INFO:>>> BYE sip:pc@192.168.100.34:65466;conf-id=EDx6L;transport=udp SIP/2.0
+16:03:08:INFO:destinacia pc@192.168.100.34
+16:03:08:INFO:<<< BYE sip:pc@192.168.100.34:65466;conf-id=EDx6L;transport=udp SIP/2.0
+16:03:08:INFO:>>> SIP/2.0 200 Ok
+16:03:08:INFO:<<< SIP/2.0 200 Ok
+16:03:09:INFO:>>> SUBSCRIBE sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:03:09:INFO:<<< SIP/2.0 200 V poriadku
+16:03:10:INFO:>>> BYE sip:pc@192.168.100.34:65466;conf-id=EDx6L;transport=udp SIP/2.0
+16:03:10:INFO:destinacia pc@192.168.100.34
+16:03:10:INFO:<<< BYE sip:pc@192.168.100.34:65466;conf-id=EDx6L;transport=udp SIP/2.0
+16:03:10:INFO:>>> SIP/2.0 200 Ok
+16:03:10:INFO:<<< SIP/2.0 200 Ok
+16:03:10:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:03:10:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:03:10:INFO:<<< SIP/2.0 200 V poriadku
+16:03:51:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:03:51:INFO:destinacia dna@192.168.100.34
+16:03:51:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:03:52:INFO:>>> SIP/2.0 100 Trying
+16:03:52:INFO:<<< SIP/2.0 100 Trying
+16:03:52:INFO:>>> SIP/2.0 180 Ringing
+16:03:52:INFO:<<< SIP/2.0 180 Ringing
+16:03:52:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:03:52:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:03:52:INFO:<<< SIP/2.0 200 V poriadku
+16:03:54:INFO:>>> SIP/2.0 200 Ok
+16:03:54:INFO:<<< SIP/2.0 200 Ok
+16:03:54:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:03:54:INFO:destinacia dna@192.168.100.34
+16:03:54:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:04:02:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:04:02:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:04:02:INFO:<<< SIP/2.0 200 V poriadku
+16:04:07:INFO:>>> REFER sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:04:07:INFO:destinacia and@192.168.100.34
+16:04:07:INFO:<<< REFER sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:04:07:INFO:>>> SIP/2.0 202 Accepted
+16:04:07:INFO:<<< SIP/2.0 202 Accepted
+16:04:07:INFO:>>> INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:04:07:INFO:destinacia dna@192.168.100.34
+16:04:07:INFO:<<< INVITE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:04:08:INFO:>>> INVITE sip:pc@192.168.100.34 SIP/2.0
+16:04:08:INFO:destinacia pc@192.168.100.34
+16:04:08:INFO:<<< INVITE sip:pc@192.168.100.34 SIP/2.0
+16:04:08:INFO:>>> SIP/2.0 100 Trying
+16:04:08:INFO:<<< SIP/2.0 100 Trying
+16:04:08:INFO:>>> SIP/2.0 100 Trying
+16:04:08:INFO:<<< SIP/2.0 100 Trying
+16:04:08:INFO:>>> SIP/2.0 200 Ok
+16:04:08:INFO:<<< SIP/2.0 200 Ok
+16:04:08:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:04:08:INFO:destinacia dna@192.168.100.34
+16:04:08:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:04:08:INFO:>>> NOTIFY sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:04:08:INFO:<<< SIP/2.0 200 V poriadku
+16:04:08:INFO:>>> SIP/2.0 180 Ringing
+16:04:08:INFO:<<< SIP/2.0 180 Ringing
+16:04:12:INFO:>>> SIP/2.0 200 Ok
+16:04:12:INFO:<<< SIP/2.0 200 Ok
+16:04:12:INFO:>>> NOTIFY sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:04:12:INFO:<<< SIP/2.0 200 V poriadku
+16:04:12:INFO:>>> ACK sip:pc@192.168.100.34:65466;transport=udp SIP/2.0
+16:04:12:INFO:destinacia pc@192.168.100.34
+16:04:12:INFO:<<< ACK sip:pc@192.168.100.34:65466;transport=udp SIP/2.0
+16:04:16:INFO:>>> BYE sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:04:16:INFO:destinacia and@192.168.100.34
+16:04:16:INFO:<<< BYE sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:04:16:INFO:>>> SIP/2.0 200 Ok
+16:04:16:INFO:<<< SIP/2.0 200 Ok
+16:04:22:INFO:>>> BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:04:22:INFO:destinacia dna@192.168.100.34
+16:04:22:INFO:<<< BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:04:22:INFO:>>> SIP/2.0 200 Ok
+16:04:22:INFO:<<< SIP/2.0 200 Ok
+16:04:23:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:04:23:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:04:23:INFO:<<< SIP/2.0 200 V poriadku
+16:05:27:INFO:>>> INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:05:27:INFO:destinacia dna@192.168.100.34
+16:05:27:INFO:<<< INVITE sip:dna@192.168.100.34:5060 SIP/2.0
+16:05:27:INFO:>>> SIP/2.0 100 Trying
+16:05:27:INFO:<<< SIP/2.0 100 Trying
+16:05:27:INFO:>>> SIP/2.0 180 Ringing
+16:05:27:INFO:<<< SIP/2.0 180 Ringing
+16:05:27:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:05:27:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:05:27:INFO:<<< SIP/2.0 200 V poriadku
+16:05:28:INFO:>>> SIP/2.0 200 Ok
+16:05:28:INFO:<<< SIP/2.0 200 Ok
+16:05:28:INFO:>>> ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:05:28:INFO:destinacia dna@192.168.100.34
+16:05:28:INFO:<<< ACK sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:05:31:INFO:>>> INVITE sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:05:31:INFO:destinacia and@192.168.100.34
+16:05:31:INFO:<<< INVITE sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:05:31:INFO:>>> SIP/2.0 100 Trying
+16:05:31:INFO:<<< SIP/2.0 100 Trying
+16:05:32:INFO:>>> SIP/2.0 200 Ok
+16:05:32:INFO:<<< SIP/2.0 200 Ok
+16:05:33:INFO:>>> ACK sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:05:33:INFO:destinacia and@192.168.100.34
+16:05:33:INFO:<<< ACK sip:and@192.168.100.47:55796;transport=udp SIP/2.0
+16:05:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+16:05:35:INFO:<<< SIP/2.0 200 V poriadku
+16:05:38:INFO:>>> BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:05:38:INFO:destinacia dna@192.168.100.34
+16:05:38:INFO:<<< BYE sip:dna@192.168.100.43:41416;app-id=929724111839;pn-type=firebase;pn-tok=cxqiX6dSmDA:APA91bEj5JkpwXuQKpidymtvurT8ocOD65DJ0vxabtzFOFBs824-3kCUf-CUk4YoiudbW6cJUT1WFFW23qoxxH1bcrvgrA6LD-hmgxC6o8ugQbFOrSNbku-f2KX9g7iKjQryYgupyxLy;pn-silent=1;transport=udp SIP/2.0
+16:05:38:INFO:>>> SIP/2.0 200 Ok
+16:05:38:INFO:<<< SIP/2.0 200 Ok
+16:05:38:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:05:38:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:05:38:INFO:<<< SIP/2.0 200 V poriadku
+16:06:15:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:06:15:INFO:Od: dna@192.168.100.34 - Kontakt: 192.168.100.43:41416
+16:06:15:INFO:<<< SIP/2.0 200 V poriadku
+16:08:20:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:08:20:INFO:Od: pc@192.168.100.34 - Kontakt: 192.168.100.34:65466
+16:08:20:INFO:<<< SIP/2.0 200 V poriadku
+16:14:35:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+16:14:35:INFO:<<< SIP/2.0 200 V poriadku
+16:17:20:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:17:20:INFO:Od: pc@192.168.100.34 - Kontakt: 192.168.100.34:65466
+16:17:20:INFO:<<< SIP/2.0 200 V poriadku
+16:23:36:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+16:23:36:INFO:<<< SIP/2.0 200 V poriadku
+16:26:20:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:26:20:INFO:Od: pc@192.168.100.34 - Kontakt: 192.168.100.34:65466
+16:26:20:INFO:<<< SIP/2.0 200 V poriadku
+16:32:36:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+16:32:36:INFO:<<< SIP/2.0 200 V poriadku
+16:35:20:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+16:35:20:INFO:Od: pc@192.168.100.34 - Kontakt: 192.168.100.34:65466
+16:35:20:INFO:<<< SIP/2.0 200 V poriadku
+17:51:17:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+17:51:17:INFO:<<< SIP/2.0 200 V poriadku
+17:51:17:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+17:51:17:INFO:Od: pc@192.168.100.34 - Kontakt: 192.168.100.34:65466
+17:51:17:INFO:<<< SIP/2.0 200 V poriadku
+17:51:19:INFO:>>> REGISTER sip:192.168.100.34 SIP/2.0
+17:51:19:INFO:Od: pc@192.168.100.34 - Kontakt: 192.168.100.34:50622
+17:51:19:INFO:<<< SIP/2.0 200 V poriadku
+17:51:19:INFO:>>> REGISTER sip:192.168.100.34:5060 SIP/2.0
+17:51:19:INFO:Od: and@192.168.100.34 - Kontakt: 192.168.100.47:55796
+17:51:19:INFO:<<< SIP/2.0 200 V poriadku
+17:51:20:INFO:>>> PUBLISH sip:pc@192.168.100.34 SIP/2.0
+17:51:20:INFO:<<< SIP/2.0 200 V poriadku
