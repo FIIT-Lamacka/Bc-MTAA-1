@@ -19,7 +19,7 @@ import socket
 import sys
 import time
 import logging
-
+import datetime
 
 HOST, PORT = '0.0.0.0', 5060
 rx_register = re.compile("^REGISTER")
@@ -66,8 +66,9 @@ registrar = {}
 
 
 def write_to_call_log(to_log: str):
+    time = datetime.datetime.now()
     call_log = open("call_log.log", "a", encoding="utf-8")
-    call_log.write(to_log + "\n")
+    call_log.write(time.strftime("%Y-%m-%d %H:%M:%S | ") + to_log + "\n")
     call_log.close()
 
 
@@ -279,6 +280,7 @@ class UDPHandler(socketserver.BaseRequestHandler):
             if fromm in registrar:
                 del registrar[fromm]
                 self.sendResponse("200 V poriadku")
+                write_to_call_log("Registrované zariadenie " + self.getOrigin())
                 return
         else:
             now = int(time.time())
@@ -381,6 +383,8 @@ class UDPHandler(socketserver.BaseRequestHandler):
                 print(data[0])
                 if "603" in data[0]:
                     write_to_call_log("Odmietnutie hovoru z " + self.getDestination() + " na " + self.getOrigin())
+                if "200" in data[0]:
+                    write_to_call_log("Poziadavka prijata z " + self.getDestination() + " na " + self.getOrigin())
                 text = "\r\n".join(data).encode("latin-1")
                 socket.sendto(text, claddr)
                 showtime()
